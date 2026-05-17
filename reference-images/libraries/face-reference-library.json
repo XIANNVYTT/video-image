@@ -1,5 +1,29 @@
 [
   {
+    "id": "face-1779038619644-bds5a9",
+    "name": "真人参考_05/18 01:23",
+    "url": "https://cdn.jsdelivr.net/gh/XIANNVYTT/video-image@main/reference-images/face-reference-images/2026/05/1779038613531-h3mrvz-65876725e3d8db18a3d248a1c758c2d0.png",
+    "type": "character",
+    "description": "视频创作模块上传的真人参考图",
+    "tags": [
+      "真人参考",
+      "视频创作",
+      "可复用"
+    ],
+    "metadata": {
+      "source": "image-to-video-face-upload",
+      "mediaType": "image",
+      "faceReference": true
+    },
+    "scriptId": null,
+    "userId": 1,
+    "referenceImages": [
+      "https://cdn.jsdelivr.net/gh/XIANNVYTT/video-image@main/reference-images/face-reference-images/2026/05/1779038613531-h3mrvz-65876725e3d8db18a3d248a1c758c2d0.png"
+    ],
+    "createdAt": "2026-05-17T17:23:39.644Z",
+    "updatedAt": "2026-05-17T17:23:39.644Z"
+  },
+  {
     "id": "face-1779038587396-6xht5m",
     "name": "真人参考_05/18 01:23",
     "url": "https://cdn.jsdelivr.net/gh/XIANNVYTT/video-image@main/reference-images/face-reference-images/2026/05/1779038580333-c795ki-3903a8dac5705fa74dce85a6c7d95998.png",
